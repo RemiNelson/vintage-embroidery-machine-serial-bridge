@@ -1,6 +1,7 @@
-# janome-serial-bridge
+# 90s MemoryCraft serial bridge
 
-A small helper script that lets old Janome embroidery-machine software
+Designed to let me still use my old customizer software from a virtual machine on my modern computer.
+This is a small helper script that lets old Janome embroidery-machine software
 running in a Windows virtual machine talk to a real, physical card
 reader/writer plugged into a Mac over USB.
 
