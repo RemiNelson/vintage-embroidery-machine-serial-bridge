@@ -1,9 +1,8 @@
 # 90s MemoryCraft serial bridge
 
 Designed to let me still use my old customizer software from a virtual machine on my modern computer.
-This is a small helper script that lets old Janome embroidery-machine software
-running in a Windows virtual machine talk to a real, physical card
-reader/writer plugged into a Mac over USB.
+This is a small helper script that lets old embroidery-machine software in a virtual machine talk to a real, physical card
+reader/writer plugged into a Mac over USB. I haven't tested with the Scan 'n Sew PC, but I'm pretty sure it would be compatible.
 
 ## What this actually is
 
