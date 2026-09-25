@@ -1,5 +1,5 @@
 #!/bin/bash
-# janome-serial-bridge
+# vintage-serial-bridge
 # Copyright (C) 2026  RemiNelson <cat.is.fite@gmail.com>
 #
 # Licensed under the GNU General Public License v3.0 with the Commons
