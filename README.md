@@ -199,3 +199,16 @@ DEVICE=/dev/cu.PL2303G-USBtoUART840   # your USB-to-serial adapter's device name
 PORT=4555                              # the TCP port your VM's virtual serial port listens on
 BAUD=9600                              # the serial connection speed
 ```
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0**,
+with the **Commons Clause** added on top. In plain terms:
+
+- You're free to view, use, modify, and share this code, including for
+  personal or hobbyist projects like this one.
+- You are **not** allowed to sell it, host it as a paid service, or use
+  it as part of a commercial product or offering, without getting a
+  separate commercial license from the copyright holder first.
+
+See the [LICENSE](LICENSE) file for the full legal text.

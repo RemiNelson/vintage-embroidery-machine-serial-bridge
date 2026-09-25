@@ -1,4 +1,11 @@
 #!/bin/bash
+# janome-serial-bridge
+# Copyright (C) 2026  RemiNelson <cat.is.fite@gmail.com>
+#
+# Licensed under the GNU General Public License v3.0 with the Commons
+# Clause condition (commercial use requires a separate license from the
+# copyright holder). See the LICENSE file for the full text.
+#
 # Bridges the Windows.utm VM's COM1 (QEMU serial, TCP server on localhost:4555)
 # to the Prolific PL2303G USB-serial adapter, for Janome Customizer 2000.
 #
