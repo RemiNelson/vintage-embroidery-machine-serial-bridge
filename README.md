@@ -53,6 +53,8 @@ scripting to rewrite the device-handling part for your operating system.
 
 ## What USB hardware this expects
 
+This is the literal USB to serial converter cable I bought & am using (just a regular amazon link): https://a.co/d/0b2mW4lH
+
 This script does **not** talk to the card reader/writer directly over
 USB. It talks to a **USB-to-serial adapter** — specifically, one built
 around the **Prolific PL2303G** chipset — that sits in between:
